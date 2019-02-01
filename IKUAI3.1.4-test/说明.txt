@@ -1,0 +1,2 @@
+程序启动必看：
+Ikuai_Web_Admin.properties放至C:\Windows\System32
